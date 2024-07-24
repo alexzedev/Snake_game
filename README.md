@@ -15,6 +15,8 @@ How to play:
 3. Collect food pellets to grow the snake's length
 4. Try to beat your high score!
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 Technical details:
 
 Built using Python programming language
