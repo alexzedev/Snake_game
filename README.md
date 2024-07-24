@@ -15,7 +15,7 @@ How to play:
 3. Collect food pellets to grow the snake's length
 4. Try to beat your high score!
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/alexzedev/Snake_game/blob/main/snake_game_gif.gif?raw=true)
 
 Technical details:
 
